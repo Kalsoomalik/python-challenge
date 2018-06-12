@@ -124,7 +124,7 @@ def processDataFile(file_name):
 
 
 # Process first data file
-processDataFile('employee_data1.csv')
+# processDataFile('employee_data1.csv')
 
 # Process Second data file
 processDataFile('employee_data2.csv')
